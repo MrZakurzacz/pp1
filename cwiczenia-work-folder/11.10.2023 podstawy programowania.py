@@ -54,7 +54,7 @@ def cw12():
 
 def  cw13():
     cube_s = int(input("Enter cube side: "))
-    print(f"The surface area of a cube with side {cube_s} is {cube_s**3}")
+    print(f"The surface area of a cube with side {cube_s} is {cube_s**2*6}")
 
 def cw14():
     pi=3.14
@@ -66,4 +66,13 @@ def cw15():
     temp_c=int(input("Temperatura w stopniach Celsjusza: "))
     temp_f = 32+temp_c*5/9
     print(f"The temperature in Fahrenheit is {temp_f}")
-cw15()
+
+def cw18():
+    x = 7
+    y = 34
+    z = 0
+    z = x
+    x = y
+    y = z
+    print(x,y)
+
