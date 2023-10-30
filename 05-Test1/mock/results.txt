@@ -1,0 +1,11 @@
+test_p1 (__main__.Test) ... ok
+test_p2 (__main__.Test) ... ok
+test_p3 (__main__.Test) ... ok
+test_p4 (__main__.Test) ... ok
+test_p5 (__main__.Test) ... ok
+test_p6 (__main__.Test) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.004s
+
+OK
